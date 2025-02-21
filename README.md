@@ -32,3 +32,9 @@ Develop a modern data warehouse using SQL Server to consolidate sales data for e
 **Silver Layer:** source_entity/tablename, example: crm_customer_info
 
 **Gold Layer:** category_entity, example: fact_sales or agg_customers
+
+## License
+This project is licensed under the MIT License
+
+## About Me
+Hi, I'm Oratile Seleke, an IT Professional who would like to showcase their data engineering skills
