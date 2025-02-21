@@ -1,4 +1,4 @@
-# sql-data-warehouse-project
+# SQL DATAWAREHOUSE PROJECT
 Building a modern data warehouse with SQL Server, including ETL Processes and data modelling 
 
 ## **Building the Data Warehouse - Data Engineering**
